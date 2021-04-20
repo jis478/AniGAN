@@ -564,8 +564,6 @@ class FST_block(nn.Module):
         return x
 
 
-
-# From MUNIT
 class Decoder(nn.Module):
     def __init__(self, dim, output_dim, input_dim=512, num_ASC_layers=4, num_FST_blocks=5):
         super(Decoder, self).__init__()
