@@ -6,9 +6,12 @@ This code seems to understand the structure & texture information provided by tr
 ![image](https://user-images.githubusercontent.com/19499513/114551562-8f6d4180-9c9e-11eb-88e3-f6953ab70e95.png)
 
 ## Implementation details
+
 - [x] AST block
 - [x] FST blocks 
+- [x] Style encoder
+- [x] Content encoder
 - [x] Double branch discriminator
 - [x] POLIN
 - [x] AdaPOLIN
-- [x] Feature matching loss (hook on activations)
+- [x] adv loss, reconstruction loss, feature matching loss (hook on activations)
