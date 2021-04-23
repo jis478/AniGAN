@@ -1,5 +1,6 @@
-# AniGAN
-#### AniGAN (https://arxiv.org/pdf/2102.12593.pdf) implementation
+# Unofficial Implementation of AniGAN
+
+paper: (https://arxiv.org/pdf/2102.12593.pdf)
 
 This code seems to understand the structure & texture information provided by training images, but doesn't produce meaningful results yet. I will keep debugging and posting the results here.
 
